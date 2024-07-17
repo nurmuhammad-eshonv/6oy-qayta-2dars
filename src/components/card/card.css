@@ -1,0 +1,41 @@
+.card {
+  display: flex;
+  width: 700px;
+  padding: 0px;
+  border: solid red 2px;
+  border-radius: 20px;
+  height: 400px;
+}
+
+.image {
+  width: 350px;
+  height: 400px;
+  border-radius: 20px 0px 0px 20px;
+}
+.firstN {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 40px;
+  color: grey;
+}
+.wrapper {
+  margin-left: 50px;
+  margin-top: 20px;
+}
+.phone {
+  font-size: 30px;
+}
+.lastN {
+  font-size: 50px;
+  color: black;
+  margin-top: -30px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.cars {
+  font-size: 30px;
+  margin-top: -30px;
+  color:grey;
+  font-weight: 800;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
