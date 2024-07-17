@@ -1,4 +1,4 @@
-.card {
+.cardd {
   display: flex;
   width: 700px;
   padding: 0px;
@@ -20,25 +20,22 @@
   color: grey;
 }
 .wrapper {
-  margin-left: 50px;
+  margin-left: 40px;
   margin-top: 20px;
 }
 .phone {
   font-size: 30px;
   color:rgb(18, 45, 108);
-  margin-top: -10px;
   font-weight:700
 }
 .lastN {
   font-size: 50px;
   color: black;
-  margin-top: -30px;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 .cars {
   font-size: 30px;
-  margin-top: -30px;
   color:grey;
   font-weight: 800;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -47,7 +44,8 @@
 .email{
     color:rgb(14, 40, 151);
     font-size:20px;
-    margin-top: 90px;
+    margin-top: 40px;   
+    text-align: start;
     font-weight: 800 ;
     cursor: pointer;
 }
