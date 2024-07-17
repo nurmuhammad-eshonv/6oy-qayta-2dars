@@ -4,7 +4,7 @@ import "./App.css";
 function App() {
   return (
     <>
-      <div className="navbar bg-orange-500 h-20 mb-6 pt-5">
+      <div className="navbar bg-orange-500 h-20 mb-6 ">
         <div className="flex-1">
           <a className="btn btn-ghost text-xl bg-green-500 text-white ">MyStore</a>
         </div>
