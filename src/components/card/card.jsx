@@ -10,13 +10,14 @@ function Card(props) {
         <div>
           <h2 className="firstN">{data.firstName}</h2>
           <p className="lastN">{data.lastName}</p>
-          <p className="cars">{data.cars}</p>
+          <p className="cars">{data.cars[1]}</p>
 
           <p className="phone">{data.phone}</p>
-          <p>{data.email}</p>
         </div>
-        <div></div>
+      <p className="email">{data.email}</p>
+       
       </div>
+
     </div>
   );
 }
